@@ -1,2 +1,2 @@
-# Food-Website
-a online food order website with angular
+## Food-Website
+It is a nice practice project for Angular beginners. 
